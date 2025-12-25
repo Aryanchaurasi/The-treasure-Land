@@ -15,7 +15,7 @@ Navigate through treacherous paths, cross dangerous rivers, and choose the right
 ### Option 1: Docker (Recommended)
 ```bash
 # Clone and start
-git clone <repository-url>
+git clone https://github.com/Aryanchaurasi/The-treasure-Land
 cd Treasure-Land
 docker-compose up
 
